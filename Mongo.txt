@@ -1,0 +1,8 @@
+// Q: What is mongoDB ? 
+// ans:=> mongoDB is the {document oriented NoSql database}; Data stored in the database in the JSON format and in backend it used the storage system called wired tiger;
+
+//Q: JSON vs BSON format?
+// ans:=> JSON format means the data store in this format it the object like format in which we have key value pairs and data stored in this format in mongoDB;
+// BSON(Binary Json) => in the mongoDB storage system the daata stored in the storage engine it converted into BSON from JSON like in (01010101) format ;
+
+Fake data;
