@@ -5,4 +5,4 @@
 // ans:=> JSON format means the data store in this format it the object like format in which we have key value pairs and data stored in this format in mongoDB;
 // BSON(Binary Json) => in the mongoDB storage system the daata stored in the storage engine it converted into BSON from JSON like in (01010101) format ;
 
-Fake data;
+Fake data => how to add data to the database
