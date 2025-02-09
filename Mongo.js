@@ -37,3 +37,6 @@ syntax;
 
 db.collectionName.insertOne({});
 db.collectionName.insertMany([{},{}]);
+
+
+//we have to understand the CRUD in MONGODB
